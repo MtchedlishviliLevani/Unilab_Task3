@@ -1,0 +1,53 @@
+header {
+  border-bottom: 1px solid black;
+}
+nav ul {
+  text-align: center;
+  text-decoration: none;
+  padding: 30px 0;
+}
+
+nav li {
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+}
+.middle-list {
+  padding: 0 66px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.main-section h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 54px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #7d0000;
+  margin-top: 112px;
+}
+
+.main-section p {
+  width: 775px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 41px;
+  letter-spacing: 0.03em;
+  margin: 118px 0px 59px 175px;
+}
+
+address {
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  font-style: italic;
+  line-height: 34px;
+  letter-spacing: 0.03em;
+  margin-left: 175px;
+}
